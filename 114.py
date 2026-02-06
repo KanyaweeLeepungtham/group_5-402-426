@@ -60,4 +60,3 @@ print("Gauss-Jordan:    ", gauss_jordan_elimination(A1, b1))
 print("\n--- ผลลัพธ์ตัวอย่างที่ 2 ---")
 print("Gauss (Pivoting):", gauss_elimination_pivoting(A2, b2))
 print("Gauss-Jordan:    ", gauss_jordan_elimination(A2, b2))
-
