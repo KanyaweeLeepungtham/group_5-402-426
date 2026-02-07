@@ -35,7 +35,7 @@ Matrix Inversion (Inverse Matrix) : การหาเมทริกซ์ส�
   
   4.ได้คำตอบสุดท้ายของระบบสมการคือ x
 
-#Inverse Matrix (Gauss–Jordan)
+# 4.Inverse Matrix (Gauss–Jordan)
   1.สร้าง Augmented Matrix
   [A \mid I]
   
